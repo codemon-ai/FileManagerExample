@@ -1,5 +1,5 @@
 
-# File Upload System
+# File Upload/Download System
 
 A web application for uploading and managing files using React, Express, and AWS S3.
 
@@ -67,3 +67,10 @@ The project uses Vite for frontend development and tsx for running the backend T
 To start development:
 1. Install dependencies: `npm install`
 2. Run the development server: `npm run dev`
+
+## ToDo
+
+- [] 대용량 파일 테스트 필요
+- [] 업로드 금지 옵션 넣기
+- [] 람다로 전환
+- [] 관련 VPC 작업
